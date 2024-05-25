@@ -1,5 +1,5 @@
 ### Introduction
-I'm Tomás, a 20-year-old computer science student and aspiring developer from Córdoba, Argentina. As of writing this, I'm learning Haskell, C and Python. I work from an Ubuntu PC.
+I'm Tomás, a 20-year-old computer science student and aspiring developer from Córdoba, Argentina. As of writing this, I'm learning Haskell, C and Python. I work on an Ubuntu PC.
 
 ### Likes
 I love talking about linguistics, science, politics, math, psychology, philosophy and really anything, I seek every opportunity to learn new stuff!
