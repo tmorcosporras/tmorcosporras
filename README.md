@@ -11,8 +11,8 @@ CEFR C2 English certificate (grade B on CPE, date of issue 17/12/2020, certifica
 
 Finished Secondary School in Colegio Nacional de Monserrat.
 
-[Mention on 2021 IMO selection test](https://www.oma.org.ar/internacional/resultados-imo62sel.html)
+[Mention on 2021 Argentinian International Math Olympiad selection test](https://www.oma.org.ar/internacional/resultados-imo62sel.html)
 
-[Mention on 2021 Ibero-American Math Olympiad selection test](https://www.oma.org.ar/internacional/resultados-ibe36sel.html)
+[Mention on 2021 Argentinian Ibero-American Math Olympiad selection test](https://www.oma.org.ar/internacional/resultados-ibe36sel.html)
 
 I have helped organize the Córdoba Ñandú Math Olympiad as an ex-olympic.
