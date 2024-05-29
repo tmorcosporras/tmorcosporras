@@ -27,6 +27,6 @@ Mention on 2021 Argentinian selection test for the International Math Olympiad.
 
 Mention on 2021 Argentinian selection test for the Ibero-American Math Olympiad.
 
-I have helped organize the Córdoba Ñandú Math Olympiad as an ex-olympic.
+Helped organize the Córdoba Ñandú Math Olympiad as an ex-olympic.
 
 Intermediate skill with the Office package and Google suite.
