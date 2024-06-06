@@ -1,7 +1,7 @@
 ### Introduction
 I'm Tomás, a 20-year-old computer science student and aspiring developer from Córdoba, Argentina.
 
-As of writing this, I'm learning Haskell, C and Python.
+As of writing this, I'm learning Python and HTML.
 
 I work on an Ubuntu PC.
 
