@@ -1,3 +1,4 @@
+# Welcome to my page!
 ### Introduction
 I'm Tomás, a 20-year-old computer science student and aspiring developer from Córdoba, Argentina.
 
@@ -5,7 +6,7 @@ As of writing this, I'm learning Python and HTML.
 
 I work on an Ubuntu PC.
 
-# Personality
+### Personality
 I'm a very curious, creative and outgoing person, with a focus on logic and problem solving.
 
 I love talking about science, humanities and really anything, I seek every opportunity to learn new stuff!
@@ -16,7 +17,7 @@ I like to follow precise, clear directives, I tend to interpret orders as set in
 
 These traits in conjunction make me particularly inclined towards teamwork.
 
-# Skills
+### Skills
 Finished Secondary School at Colegio Nacional de Monserrat (average 8.23/10).
 
 Native Spanish.
