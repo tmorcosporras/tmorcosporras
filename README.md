@@ -13,6 +13,6 @@ Córdoba, Argentina \
 Bachiller Humanista con Orientación en Humanidades y Ciencias Sociales \
 Graduated December 13th, 2021, GPA 82.3%
 ## Skills and Intrests
-Technologies: Haskell, Python, C, JavaScript, Google Workspace. \
-Language: Near-native English level (grade B on Certificate of Proficiency in English). \
-Interests: I participated in the Argentinian math olympiad, earning two mentions in selection tests and helping organize an event.
+Technologies: Haskell, Python, C, JavaScript, Google Workspace \
+Language: Near-native English level (grade B on Certificate of Proficiency in English) \
+Interests: I participated in the Argentinian math olympiad, earning two mentions in selection tests and helping organize an event
