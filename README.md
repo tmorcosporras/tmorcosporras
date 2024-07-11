@@ -1,5 +1,5 @@
 # Tomás Ezequiel Morcos Porras
-Córdoba, Argentina, X5014 \
+Córdoba, Argentina \
 tomasmorcosporras@gmail.com \
 Entry level developer
 ## Education
