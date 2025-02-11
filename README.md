@@ -7,7 +7,7 @@ Entry level developer
 Córdoba, Argentina \
 Facultad de Matemática, Astronomía, Física y Computación \
 Licenciatura en Ciencias de la Computación \
-Currently in second year, GPA 86.0% 
+Currently in second year, GPA 82.5% 
 ### Colegio Nacional de Monserrat
 Córdoba, Argentina \
 Bachiller Humanista con Orientación en Humanidades y Ciencias Sociales \
